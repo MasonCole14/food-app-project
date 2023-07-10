@@ -1,4 +1,4 @@
-![Untitled design]![Alt text](<screenshots/Screen Shot 2023-07-10 at 3.44.06 PM.jpeg>)
+![Alt text](<screenshots/Screen Shot 2023-07-10 at 3.44.06 PM.jpeg>)
 
 
 # Build A React JS Website Styled With Tailwind CSS
