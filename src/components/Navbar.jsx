@@ -18,7 +18,7 @@ const [nav, setNav] = useState(false)
           <AiOutlineMenu size={30} />
         </div>
         <h1 className="text-2xl sm:text-3xl lg:text-4xl px-2">
-          Best <span className="font-bold">Eats</span>
+          Grub <span className="font-bold">Dash</span>
         </h1>
         <div
           className="hidden lg:flex items-center
