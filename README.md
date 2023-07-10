@@ -3,7 +3,9 @@
 
 # Grub Dash Food App React JS Website Styled With Tailwind CSS
 
-## Run npm install to install the necessary dependencies
+## Run npm install to install the necessary dependencies 
+
+### Only the filter type and filter price buttons are live
 
  All of the data/images to simulate API responses are located at src/data/data.js
 
